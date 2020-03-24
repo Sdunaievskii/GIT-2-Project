@@ -7,4 +7,8 @@
 .container {
     max-width: 1440px;
     margin: 0 auto;
+<<<<<<< Updated upstream
+=======
+    min-height: calc(100vh - 100px);
+>>>>>>> Stashed changes
 }
