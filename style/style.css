@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, SansSerif;
 }
 .container {
     width: 100%;
@@ -179,3 +179,4 @@ footer .right_side .icons img{
     margin: 0px 15px;
     opacity: 0.5;
 }
+>>>>>>> master
