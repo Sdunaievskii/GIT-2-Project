@@ -1,23 +1,13 @@
-*{
+* {
     margin: 0;
     padding: 0;
-<<<<<<< HEAD
     font-family: 'Open Sans', sans-serif;
     box-sizing: border-box;
-=======
-<<<<<<< HEAD
-    font-family: Arial, SansSerif;
->>>>>>> header
 }
 .container {
-<<<<<<< HEAD
-    width: 100%;
+    max-width: 1440px;
     margin: 0 auto;
-<<<<<<< HEAD
 
-=======
-    max-width: 1600px;
-    margin: 0 auto;
 }
 .head-block{
 	width: 100%;
@@ -54,8 +44,8 @@
 	justify-content: space-between;
 	align-items: center;
 	line-height: 60px;
-	margin-right: 80px;
-	margin-left: 80px;
+	margin-right: 5px;
+	margin-left: 5px;
 }
 .logo{
 	display: flex;
@@ -94,8 +84,6 @@ span{
 	display: flex;
 	justify-content: space-between;
 	margin-top: 140px;
-	margin-right: 80px;
-	margin-left: 80px;
 	z-index: 5;
 }
 .column-1{
@@ -135,6 +123,7 @@ span{
     margin-top: 70px;
     color: #7a8794;
     font-weight: bold;
+    border:none;
 }
 .btn-2{
 	border-radius: 5px;
@@ -147,6 +136,7 @@ span{
     margin-left: 20px;
     font-weight: bold;
     color: #061e37;
+    border:none;
 }
 .video{
     z-index: 29;
@@ -251,13 +241,14 @@ span{
     z-index: 77;
     margin-left: calc(50% - 70px);
     margin-top: 75px;
+    border:none;
 }
 .icon{
 	text-align: center;
 	margin-bottom: 30px;
 =======
     font-family: Arial, Helvetica, sans-serif;
->>>>>>> header
+
 }
 .color_block{
 
@@ -271,6 +262,7 @@ span{
 }
 .color_block .container{
     display: flex;
+    margin-top: 125px;
 }
 .color_block .container .col_min_block{
     width: 25%;
@@ -481,13 +473,14 @@ span{
 
 
 
-
+/*
     min-height: calc(100vh - 100px);
 }
+*/
+
 .our_teams_block{
     background-color: #ffffffc4;
     width: 100%;
-    height: 770px;
 }
 .our_teams_block h2{
     text-align: center;
@@ -547,6 +540,7 @@ span{
     width: 100%;
     height: 700px;
     background-color: #fafafa;
+    margin-top: 100px;
 }
 .contacts h2{
     text-align: center;
@@ -654,11 +648,5 @@ footer .right_side .icons{
 footer .right_side .icons img{
     margin: 0px 15px;
     opacity: 0.5;
-<<<<<<< HEAD
+
 }
->>>>>>> master
->>>>>>> 3e5cded7af52a18f998344b322034f3f916810dd
-=======
->>>>>>> 3a8b46717f45aee196ea4af57b7e6f0ebf05be36
-}
->>>>>>> header
